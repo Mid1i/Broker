@@ -1,4 +1,4 @@
-import {appContext, Routers} from "services";
+import {appContext, Routers} from "./providers";
 
 
 export default function App() {

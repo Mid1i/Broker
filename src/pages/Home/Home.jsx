@@ -1,6 +1,6 @@
-import {Header} from "components";
+import {Header} from "widgets";
 
-import "./Home.style.scss";
+import "./Home.styles.scss";
 
 
 export default function Home() {
